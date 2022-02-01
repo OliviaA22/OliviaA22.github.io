@@ -3,24 +3,22 @@ body {
   margin-right: 10%;
   background-color: floralwhite;
   font-family:Optima;
+  font-size: 115%
 }
 h1   {color: maroon;}
 h2   {color: green;}
 h3   {color: darkcyan;}
 h4   {color: green;}
 p    {color: black;}
-
 div {
-  font-size: 115%;
-}
-
+  font-size: 125%;
+  }
 div.all {
    text-align:center
 }
 div.hd {
-    background: Gainsboro;
-     margin-left: 0%;
-     margin-right: 0%;
+    background-color: gainsboro;
+
 }
 
 div.bdy {
