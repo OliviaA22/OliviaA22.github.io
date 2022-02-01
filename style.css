@@ -11,14 +11,13 @@ h3   {color: darkcyan;}
 h4   {color: green;}
 p    {color: black;}
 div {
-  font-size: 125%;
+  font-size: 120%;
   }
 div.all {
    text-align:center
 }
 div.hd {
     background-color: gainsboro;
-
 }
 
 div.bdy {
