@@ -1,4 +1,4 @@
-Digital Health in Germany
+**Digital Health in Germany**
 
 Germany as a country, is a market that looked attractive from the outside for digital health startups worldwide. Yet there are hundreds of examples of digital health innovators from Germany and companies from outside that either moved out again or failed all together. Despite political efforts, certain barriers seem to strongly impede the process of digitalization process in healthcare. However, with the new regulations passed on November 7th 2019, by the German House of Parliament, there will be a major impact on the success rate of digital health solutions provided to residents insured in Germany and HCPs.
 
