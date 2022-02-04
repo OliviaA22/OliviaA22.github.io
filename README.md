@@ -1,4 +1,4 @@
-****Digital Health in Germany********
+****Digital Health in Germany****
 
 Germany as a country, is a market that looked attractive from the outside for digital health startups worldwide. Yet there are hundreds of examples of digital
 health innovators from Germany and companies from outside that either moved out again or failed all together, due to certain barriers that seem
